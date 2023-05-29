@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { useRouter } from "next/router";
 import Wrapper from "@/components/Wrapper";
 import ProductGrid from "@/components/ProductGrid";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { fetchDataFromApi } from "@/utils/api";
 import useSWR from "swr";
 

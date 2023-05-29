@@ -3,8 +3,6 @@ import Wrapper from "./Wrapper";
 import Link from "next/link";
 import Menu from "./Menu";
 import MenuMobile from "./MenuMobile";
-import Link from "next/link";
-
 import { IoMdHeartEmpty } from "react-icons/io";
 import { BsCart } from "react-icons/bs";
 import { BiMenuAltRight } from "react-icons/bi";
